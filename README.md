@@ -1,5 +1,14 @@
 # Improve_Hand_Gestures_Recognition
 Hand Gestures Recognition for Four Datasets
+In this work a particular ensemble of both networks is proposed to solve the American Sign Language recognition problem very effectively. The method is based on increasing diversity in both the model and the dataset.
+
+Runtime environment: Google Colab
+
+Requirements:
+
+Tensorflow==1.15
+
+keras==2.2.4
 
 Datasets:
 
