@@ -24,3 +24,9 @@ https://www.kaggle.com/grassknoted/asl-alphabet
 
 MNIST ASL:
 https://www.kaggle.com/datamunge/sign-language-mnist
+
+
+How to cite this article: 
+
+Bousbai, K., Morales-Sánchez, J., Merah, M., & Sancho-Gomez, J.-L. (2022). Improving hand gestures recognition
+capabilities by ensembling convolutional networks. Expert Systems, e12937. https://doi.org/10.1111/exsy.12937
