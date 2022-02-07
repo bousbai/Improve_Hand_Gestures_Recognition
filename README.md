@@ -16,7 +16,12 @@ Datasets:
 Massey University:
 https://www.massey.ac.nz/~albarcza/gesture_dataset2012.html
 
-![image](https://user-images.githubusercontent.com/51031118/152749926-0af3e501-a843-4fa2-b132-a13140d16f71.png =300x300 )
+<div style="width: 60%; height: 60%">
+  
+![image](https://user-images.githubusercontent.com/51031118/152749926-0af3e501-a843-4fa2-b132-a13140d16f71.png)
+
+  
+</div>
 
 Static Hand Gesture ASL:
 https://ieee-dataport.org/open-access/static-hand-gesture-asl-dataset
