@@ -16,7 +16,7 @@ Datasets:
 Massey University:
 https://www.massey.ac.nz/~albarcza/gesture_dataset2012.html
 
-<div style="width: 60%; height: 60%">
+<div style="width: 30%; height: 30%">
   
 ![image](https://user-images.githubusercontent.com/51031118/152749926-0af3e501-a843-4fa2-b132-a13140d16f71.png)
 
