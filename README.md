@@ -34,7 +34,7 @@ https://www.kaggle.com/datamunge/sign-language-mnist
 <img src="https://user-images.githubusercontent.com/51031118/152750049-92841c35-f2ae-4d1b-9977-0a4d52cc696f.png" width=35% height=35%>
 
 
-How to cite this article: 
+How to cite this work: 
 
 Bousbai, K., Morales-Sánchez, J., Merah, M., & Sancho-Gomez, J.-L. (2022). Improving hand gestures recognition
 capabilities by ensembling convolutional networks. Expert Systems, e12937. https://doi.org/10.1111/exsy.12937
