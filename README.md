@@ -16,22 +16,22 @@ Datasets:
 Massey University:
 https://www.massey.ac.nz/~albarcza/gesture_dataset2012.html
 
-![image](https://user-images.githubusercontent.com/51031118/152749926-0af3e501-a843-4fa2-b132-a13140d16f71.png)
+![image](https://user-images.githubusercontent.com/51031118/152749926-0af3e501-a843-4fa2-b132-a13140d16f71.png =300x300 )
 
 Static Hand Gesture ASL:
 https://ieee-dataport.org/open-access/static-hand-gesture-asl-dataset
 
-![image](https://user-images.githubusercontent.com/51031118/152750070-0f62b82b-f11a-4a54-a1bb-530c2ce6aade.png)
+![image](https://user-images.githubusercontent.com/51031118/152750070-0f62b82b-f11a-4a54-a1bb-530c2ce6aade.png =300x300)
 
 Kaggle ASL Alphabet:
 https://www.kaggle.com/grassknoted/asl-alphabet
 
-![image](https://user-images.githubusercontent.com/51031118/152750103-a52171d5-e939-46a0-a8d8-f71d0f0edd23.png)
+![image](https://user-images.githubusercontent.com/51031118/152750103-a52171d5-e939-46a0-a8d8-f71d0f0edd23.png =300x300)
 
 MNIST ASL:
 https://www.kaggle.com/datamunge/sign-language-mnist
 
-![image](https://user-images.githubusercontent.com/51031118/152750049-92841c35-f2ae-4d1b-9977-0a4d52cc696f.png)
+![image](https://user-images.githubusercontent.com/51031118/152750049-92841c35-f2ae-4d1b-9977-0a4d52cc696f.png =300x300)
 
 
 
